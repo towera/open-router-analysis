@@ -5,7 +5,7 @@ parts:
   - caption: Open Router Analysis
     numbered: True
     chapters:
-      - file: notebooks/world-bank-api.ipynb
+      - file: notebooks/open-router-visualization.ipynb
   - caption: Additional Resources
     chapters:
       - url: https://datapartnership.org
