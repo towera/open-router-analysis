@@ -4,7 +4,7 @@ logo: docs/images/logo.png
 only_build_toc_files: false
 
 execute:
-  execute_notebooks: "auto"
+  execute_notebooks: off
 
 repository:
   url: https://github.com/towera/open-router-analysis
