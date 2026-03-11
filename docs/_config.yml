@@ -1,34 +1,46 @@
+# Book settings
 title: OpenRouter AI Usage Analysis
 author: Development Data Partnership
 logo: docs/images/logo.png
 only_build_toc_files: false
 
+
+execute:
+  execute_notebooks: "auto"
 repository:
   url: https://github.com/towera/open-router-analysis
   branch: main
 
+#######################################################################################
+# HTML-specific settings
 html:
   home_page_in_navbar: false
   extra_navbar: ""
   use_edit_page_button: true
   use_repository_button: true
   use_issues_button: true
-  baseurl: /open-router-analysis
+  baseurl: https://worldbank.github.io/template
   extra_footer: |
     <div>
-      Country borders or names do not necessarily reflect the World Bank Group’s official position. All maps are for illustrative purposes and do not imply the expression of any opinion on the part of the World Bank, concerning the legal status of any country or territory or concerning the delimitation of frontiers or boundaries
+     Country borders or names do not necessarily reflect the World Bank Group’s official position. All maps are for illustrative purposes and do not imply the expression of any opinion on the part of the World Bank, concerning the legal status of any country or territory or concerning the delimitation of frontiers or boundaries
     </div>
     <div>
-      <b>All content (unless otherwise specified) is subject to the <a href="https://www.mozilla.org/en-US/MPL">Mozilla Public License.</a></b>
+        <b>All content (unless otherwise specified) is subject to the <a href="https://www.mozilla.org/en-US/MPL">Mozilla Public License.</a></b>
     </div>
   favicon: docs/images/favicon.ico
 
+#######################################################################################
+# Execution settings
 execute:
   execute_notebooks: off
 
+#######################################################################################
+# Bibliography settings
 bibtex_bibfiles:
   - docs/bibliography.bib
 
+#######################################################################################
+# Sphinx settings
 sphinx:
   config:
     html_show_copyright: false
