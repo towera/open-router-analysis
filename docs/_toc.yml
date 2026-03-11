@@ -5,6 +5,7 @@ parts:
   - caption: Open Router Analysis
     numbered: True
     chapters:
+      - file: notebooks/world-bank-api.ipynb
       - file: notebooks/test.ipynb
   - caption: Additional Resources
     chapters:
