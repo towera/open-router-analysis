@@ -8,6 +8,8 @@ parts:
       - file: notebooks/data_processing
       - file: notebooks/index_construction
       - file: notebooks/dashboard
+
+  - caption: Additional Resources
     chapters:
       - url: https://datapartnership.org
         title: Development Data Partnership
