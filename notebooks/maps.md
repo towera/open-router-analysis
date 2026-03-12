@@ -2,7 +2,7 @@
 
 ## Relative API token usage
 <iframe
-  src="./chinese_map.html" 
+  src="../_static/chinese_map.html" 
   width="100%"
   height="750"
   style="border:none;">
