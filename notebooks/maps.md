@@ -1,8 +1,6 @@
 # Global maps
 
 ## Relative API token usage
-<iframe src="../_static/maps/token_map.html" width="100%" height="750" style="border:none;"></iframe>
-
 <iframe
   src="../_static/maps/token_map.html"
   width="100%"
