@@ -3,7 +3,7 @@ root: README
 
 parts:
   - caption: Open Router Analysis
-    numbered: True
+    numbered: false
     chapters:
       - file: notebooks/openrouter_visualization.ipynb
       - file: notebooks/maps.md
