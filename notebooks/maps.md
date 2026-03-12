@@ -4,7 +4,7 @@
 
 <iframe width="100%" height="750"></iframe>
 <iframe
-  src="_static/maps/token_map.html" 
+  src="./maps/_static/maps\chinese_map.html" 
   width="100%"
   height="750"
   style="border:none;">
