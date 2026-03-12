@@ -1,5 +1,5 @@
 # Global maps
-
+<div class="no-right-sidebar">
 ## Relative API token usage
 <iframe
   src="../_static/maps/token_map.html"
@@ -23,3 +23,4 @@
   height="750"
   style="border:none;">
 </iframe>
+</div>

@@ -46,3 +46,12 @@ a.current.reference.internal {
 #pst-back-to-top {
 	background-color: #3eacad;
 }
+/* Hide right TOC sidebar for pages that include .no-right-sidebar */
+.no-right-sidebar ~ div.bd-container .bd-toc {
+    display: none;
+}
+
+/* Expand main content when right sidebar is hidden */
+.no-right-sidebar ~ div.bd-container .bd-main {
+    max-width: 100%;
+}
