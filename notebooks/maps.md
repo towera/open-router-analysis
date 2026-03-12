@@ -35,16 +35,19 @@
 <iframe
   class="map-frame"
   src="../_static/maps/token_map.html">
+  style="width:100%; height:900px; border:none; display:block;">
 </iframe>
 
 <h2>Open-source model usage share</h2>
 <iframe
   class="map-frame"
   src="../_static/maps/open_source_map.html">
+  style="width:100%; height:900px; border:none; display:block;">
 </iframe>
 
 <h2>Chinese model usage share</h2>
 <iframe
   class="map-frame"
   src="../_static/maps/chinese_map.html">
+  style="width:100%; height:900px; border:none; display:block;">
 </iframe>
